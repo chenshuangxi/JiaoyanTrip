@@ -1,0 +1,29 @@
+{
+  "name": "yantrip",
+  "version": "0.0.1",
+  "description": "yantrip",
+  "private": true,
+  "main": "app.js",
+  "author": {
+    "name": "cshuangxi",
+    "email": "cshuangxi@126.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cookie-parser": "*",
+    "express": "3.4.4",
+    "jade": "*",
+    "mysql": "*",
+    "stylus": "*",
+    "multer": "*",
+    "mc": "*",
+    "log4js": "*",
+    "request": "*",
+    "is-my-json-valid": "*",
+    "process": "*",
+    "domain": "*",
+	"xml2js":"*",
+	"edge":"*",
+    "iconv-lite":"*"
+  }
+}
